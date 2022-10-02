@@ -2,6 +2,7 @@ a b c d e f g
 h i g k l m n
 o p q r s t u
 v w x y z
+<<<<<<< HEAD
 it 
 
 sdacc
@@ -11,3 +12,6 @@ adc
 
 
 adcac
+=======
+it is English alphabet
+>>>>>>> dc5d340f62ebe4ae6f5a092ad78120f89b73fbda
